@@ -1,7 +1,6 @@
-# Stealth
+# Stealth - Unfazed Pirate 0x420
 Config files for my GitHub profile.
-Unfazed Pirate
-420
+
 ------------------------------
 Project: Catch Them All - October 2026
 
